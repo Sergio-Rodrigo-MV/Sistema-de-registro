@@ -2,4 +2,4 @@
 
 - Estado del proyecto: En construcción.
   Para ejecutar el sistema, debes poner:
-  '''apt get-install openmp'''
+  ---apt get-install openmp---
